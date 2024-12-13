@@ -1,0 +1,15 @@
+1.Core Module:http,fs,path,querystring
+    *HTTP:-Create a HTTP server in Node.js.
+    *FS:- Use to handel file system.
+    *Path:-include method to deal with file paths.
+    *QueryString:Utility used for parsing and formating URL query string.
+    URL:-Modeule provides utilites for URL resolution and parsing.
+
+2.third party:install when ever we need module(dependancies,like(npm i express))
+
+3:Local  Module:Local module are Modules Created locally in your NODE.JS Applicaton.These module include 
+                different functionallities of your
+                Applicaton in seperate File And folders.
+if we can use file in other file ,we can use
+MODULE.EXPORT=WELCOME;
+*use 'REQUIRE' function and give path(example given in "localmodule.js" file)
